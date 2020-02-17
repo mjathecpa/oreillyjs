@@ -1,0 +1,30 @@
+{
+  "name": "oreilly",
+  "version": "1.0.0",
+  "description": "practice stuff",
+  "main": "main.js",
+  "dependencies": {
+    "babel-preset-es2015": "^6.24.1",
+    "gulp-babel": "^8.0.0",
+    "gulp": "^4.0.2",
+    "underscore": "^1.9.2"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-plugin-react": "^7.18.3",
+    "gulp-eslint": "^6.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/armsmi01/oreillyjs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/armsmi01/oreillyjs/issues"
+  },
+  "homepage": "https://github.com/armsmi01/oreillyjs#readme"
+}
